@@ -1,0 +1,23 @@
+{
+  "product": "Playstion 5",
+  "price": "499.99 €",
+  "available": true,
+  "specs": [
+      100.50,
+      290.40,
+      38.39
+  ],
+  "extras": {
+        "colors": [
+            {
+                "white":"#FFFFFF"
+            },
+            {
+                "black":"#000000"
+            },
+            {   
+                "red":"#FF0000"
+            }
+        ]
+    }
+}
