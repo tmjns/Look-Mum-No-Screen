@@ -4,7 +4,7 @@ Web Scraping Websites
 ---------------------
 A list of tested websites ...
 
-| working           | not wokring   |
+| working           | not working   |
 | :------------     |:------------  |
 | keychron.com      | zalando.de    | 
 | nike.com          | adidas.com    |   
