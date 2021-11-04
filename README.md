@@ -4,8 +4,8 @@ Web Scraping Websites
 ---------------------
 A list of tested websites ...
 
-| good              | bad           |
+| working           | not wokring   |
 | :------------     |:------------  |
-| keychron.com      | libx264       | 
-| nike.com.         | libvpx-vp9    |   
-| otto.de           | libtheora     |  
+| keychron.com      | zalando.de    | 
+| nike.com          | adidas.com    |   
+| otto.de           |               |  
