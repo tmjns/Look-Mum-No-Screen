@@ -9,3 +9,4 @@ A list of tested websites ...
 | keychron.com      | zalando.de    | 
 | nike.com          | adidas.com    |   
 | otto.de           |               |  
+| ebay.com          |               | 
