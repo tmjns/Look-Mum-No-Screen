@@ -12,7 +12,7 @@ Look Mum No Screen
 | 10.11.2021 || 
 | 17.11.2021 | I/O Eingabe und Ausgabe | 
 | 24.11.2021 ||
-| 01.12.2021 | KI/O Eingabe und Ausgabe #2 | 
+| 01.12.2021 | I/O Eingabe und Ausgabe #2 | 
 | 08.12.2021 ||
 | 15.12.2021 | Zwischenpräsentation |
 | 22.12.2021 ||
