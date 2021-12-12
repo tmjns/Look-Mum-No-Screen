@@ -12,13 +12,13 @@ Look Mum No Screen
 | 10.11.2021 || 
 | 17.11.2021 | I/O Eingabe und Ausgabe | 
 | 24.11.2021 ||
-| 01.12.2021 | I/O Eingabe und Ausgabe #2 | 
+| 01.12.2021 | I/O Eingabe und Ausgabe 2 | 
 | 08.12.2021 ||
 | 15.12.2021 | Zwischenpräsentation |
 | 22.12.2021 ||
-| 29.12.2021||
+| 29.12.2021 ||
 | 05.01.2022 ||
-| 12.01.2022 | ///TBD/// |
+| 12.01.2022 | Exkurs Fusion 360, Löten |
 | 19.01.2022 ||
 | 26.01.2022 | ///TBD/// |
 | 02.02.2022 | white card |
