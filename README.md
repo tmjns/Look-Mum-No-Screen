@@ -18,10 +18,10 @@ Look Mum No Screen
 | 22.12.2021 ||
 | 29.12.2021 ||
 | 05.01.2022 ||
-| 12.01.2022 | Exkurs Fusion 360, Löten |
+| 12.01.2022 | Exkurs Fusion 360, Soldering |
 | 19.01.2022 ||
-| 26.01.2022 | ///TBD/// |
-| 02.02.2022 | white card |
+| 26.01.2022 | Project Support |
+| 02.02.2022 | /// white card /// |
 | 09.02.2022 | Abschlusspräsentation |
 
 ### Web Scraping Websites:
