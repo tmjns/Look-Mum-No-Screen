@@ -21,15 +21,7 @@ Look Mum No Screen
 | 12.01.2022 | Exkurs Fusion 360, Soldering |
 | 19.01.2022 ||
 | 26.01.2022 | Project Support |
-| 02.02.2022 | /// white card /// |
-| 09.02.2022 | Abschlusspräsentation |
-
-### Web Scraping Websites:
-Liste von Websites aus der Kick Off Veranstaltung:
-
-| working           | not working?  |
-| :------------     |:------------  |
-| keychron.com      | zalando.de    | 
-| nike.com          | adidas.com    |   
-| otto.de           |               |  
-| ebay.com          |               | 
+| 02.02.2022 ||
+| 09.02.2022 | Abschlusspräsentation + Support |
+| 16.02.2022 | Abschlusspräsentation |
+| 24.02.2022 | Interaction Day 22 |
