@@ -2,6 +2,14 @@
 
 Look Mum No Screen
 ---------------------
+
+Wie können sich schnell verändernde Informationen aus
+dem digitalen in den analogen Raum übersetzen lassen?
+Um dieser Frage nachzugehen, haben wir mit den Studierenden
+verschiedene Rapid Prototyping Techniken angewendet,
+um physische Objekte zu entwickeln, die eine
+Antwort auf diese Frage geben.
+
 Übersicht aller Veranstaltungen:
 
 | Datum     | Veranstaltung |
